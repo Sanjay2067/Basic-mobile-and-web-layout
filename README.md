@@ -2,9 +2,13 @@
 ## Name : JAYARAJ B
 ## Reg. no: 212224220011
 ## AIM:
+# STEP 1:
 a. Apply Gestalt principles to enhance mobile and web layout design.
+# STEP 2:
 b. Incorporate UI elements and design patterns into the layouts.
+# STEP 3:
 c. Develop interaction behaviors and usability principles for the designs.
+# STEP 4:
 d. Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts.
 ## SCREENSHOTS:
 ![EX2_212223043002_page-0001](https://github.com/user-attachments/assets/a9735b92-e500-46a6-90a7-0ea61981b99d)
