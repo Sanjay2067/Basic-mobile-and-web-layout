@@ -10,7 +10,7 @@ c. Develop interaction behaviors and usability principles for the designs.
 # 
 d. Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts.
 ## SCREENSHOTS:
-[Screenshot 2025-04-25 094359.pdf](https://github.com/user-attachments/files/20504725/Screenshot.2025-04-25.094359.pdf)
+![Screenshot 2025-05-29 182425](https://github.com/user-attachments/assets/23a9318d-4419-443d-8c67-92e9b26ebba1)
 
 
 ## Result:
